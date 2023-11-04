@@ -1,0 +1,993 @@
+url,bias,fact,Normalized_url
+https://www.bbc.com/, LEFT-CENTER, HIGH,https://www.bbc.com/
+https://www.msn.com/en-au, LEFT-CENTER, HIGH,https://www.msn.com/
+https://www.cnn.com, LEFT, MOSTLY FACTUAL,https://www.cnn.com
+https://edition.cnn.com/, RIGHT, MIXED,https://edition.cnn.com/
+https://www.nytimes.com/, LEFT-CENTER, HIGH,https://www.nytimes.com/
+https://www.dailymail.co.uk/, RIGHT, LOW,https://www.dailymail.co.uk/
+https://news.google.com/, LEFT-CENTER, MOSTLY FACTUAL,https://news.google.com/
+https://www.theguardian.com/, LEFT-CENTER, MIXED,https://www.theguardian.com/
+https://www.foxnews.com/, RIGHT, MIXED,https://www.foxnews.com/
+https://news.yahoo.com/, LEFT-CENTER, HIGH,https://news.yahoo.com/
+https://finance.yahoo.com/, RIGHT, LOW,https://finance.yahoo.com/
+https://timesofindia.indiatimes.com/, RIGHT-CENTER, MIXED,https://timesofindia.indiatimes.com/
+https://www.indiatimes.com/, RIGHT-CENTER, MIXED,https://www.indiatimes.com/
+https://people.com/, LEFT, HIGH,https://people.com/
+https://www.hindustantimes.com/, LEFT-CENTER, MIXED,https://www.hindustantimes.com/
+http://the-sun.co/, RIGHT, MIXED,http://the-sun.co/
+https://www.usatoday.com/, LEFT-CENTER, MOSTLY FACTUAL,https://www.usatoday.com/
+https://nypost.com/, RIGHT-CENTER, MIXED,https://nypost.com/
+https://www.washingtonpost.com/, LEFT-CENTER, MOSTLY FACTUAL,https://www.washingtonpost.com/
+https://www.news18.com/, RIGHT-CENTER, MIXED,https://www.news18.com/
+https://www.ndtv.com/, LEFT-CENTER, MIXED,https://www.ndtv.com/
+https://www.cnbc.com/world/, LEAST BIASED, MOSTLY FACTUAL,https://www.cnbc.com/
+https://www.forbes.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.forbes.com/
+https://www.mirror.co.uk/, LEFT-CENTER, MIXED,https://www.mirror.co.uk/
+https://www.independent.co.uk/, LEFT-CENTER, MIXED,https://www.independent.co.uk/
+https://www.india.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.india.com/
+https://pressgazette.co.uk/, RIGHT-CENTER, HIGH,https://pressgazette.co.uk/
+https://www.socialmediatoday.com/, LEAST BIASED, HIGH,https://www.socialmediatoday.com/
+https://buffer.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://buffer.com/
+https://www.linkedin.com/, FAR RIGHT, LOW,https://www.linkedin.com/
+https://www.dotdashmeredith.com/, RIGHT, MIXED,https://www.dotdashmeredith.com/
+https://www.axios.com/, LEFT-CENTER, HIGH,https://www.axios.com/
+https://www.foxcorporation.com/, EXTREME RIGHT, LOW,https://www.foxcorporation.com/
+https://70newsonline.wordpress.com/, LEFT-CENTER, VERY HIGH,https://70newsonline.wordpress.com/
+https://www.nbcnews.com/, LEFT-CENTER, HIGH,https://www.nbcnews.com/
+https://www.snopes.com/, LEFT, MIXED,https://www.snopes.com/
+https://bients.com/, RIGHT, MIXED,https://bients.com/
+https://bipartisanreport.com/, EXTREME LEFT, LOW,https://bipartisanreport.com/
+https://bizstandardnews.com/, RIGHT, MIXED,https://bizstandardnews.com/
+https://www.bloomberg.com/, LEFT-CENTER, HIGH,https://www.bloomberg.com/
+https://www.bostonherald.com/, RIGHT-CENTER, HIGH,https://www.bostonherald.com/
+http://ww12.thebostontribune.com/, LEAST BIASED, HIGH,http://ww12.thebostontribune.com/
+https://cnnpolitics.com/, RIGHT, MIXED,https://cnnpolitics.com/
+https://buffalochronicle.com/, RIGHT, MIXED,https://buffalochronicle.com/
+https://www.bva.co.uk/news-and-blog/news/, EXTREME RIGHT, LOW,https://www.bva.co.uk/
+https://www.cairnspost.com.au/, RIGHT, MIXED,https://www.cairnspost.com.au/
+https://www.cbsnews.com/, LEFT-CENTER, HIGH,https://www.cbsnews.com/
+http://ww7.cnn-trending.com/, RIGHT, MIXED,http://ww7.cnn-trending.com/
+https://www.conservatism101.org/, LEFT-CENTER, HIGH,https://www.conservatism101.org/
+https://www.pbs.org/, LEFT-CENTER, MOSTLY FACTUAL,https://www.pbs.org/
+https://www6.countynewsroom.info/, RIGHT, MIXED,https://www6.countynewsroom.info/
+https://en.wikinews.org/, LEAST BIASED, HIGH,https://en.wikinews.org/
+https://globalnews.ca/, LEFT-CENTER, HIGH,https://globalnews.ca/
+https://spectrumlocalnews.com/, LEAST BIASED, HIGH,https://spectrumlocalnews.com/
+https://www.itv.com/news, RIGHT-CENTER, VERY LOW,https://www.itv.com/
+https://japannews.yomiuri.co.jp/, RIGHT-CENTER, HIGH,https://japannews.yomiuri.co.jp/
+https://www.bhaskar.com/, RIGHT, MIXED,https://www.bhaskar.com/
+https://www.jagran.com/, RIGHT, MIXED,https://www.jagran.com/
+https://www.afr.com/, RIGHT-CENTER, HIGH,https://www.afr.com/
+https://www.theaustralian.com.au/, RIGHT-CENTER, MIXED,https://www.theaustralian.com.au/
+https://www.canberratimes.com.au/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.canberratimes.com.au/
+https://www.dailytelegraph.com.au/, RIGHT, MIXED,https://www.dailytelegraph.com.au/
+https://www.smh.com.au/, LEFT-CENTER, HIGH,https://www.smh.com.au/
+https://www.couriermail.com.au/, RIGHT-CENTER, MIXED,https://www.couriermail.com.au/
+https://www.heraldsun.com.au/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.heraldsun.com.au/
+https://thewest.com.au/, RIGHT-CENTER, HIGH,https://thewest.com.au/
+https://www.goldcoastbulletin.com.au/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.goldcoastbulletin.com.au/
+https://www.examiner.com.au/, RIGHT-CENTER, HIGH,https://www.examiner.com.au/
+https://www.geelongadvertiser.com.au/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.geelongadvertiser.com.au/
+https://mashable.com/, LEFT, MOSTLY FACTUAL,https://mashable.com/
+https://www.theverge.com/, LEFT-CENTER, HIGH,https://www.theverge.com/
+https://www.wired.com/, LEFT-CENTER, HIGH,https://www.wired.com/
+https://www.themirror.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.themirror.com/
+https://en.wikipedia.org/wiki/Middle-market_newspaper, LEAST BIASED, HIGH,https://en.wikipedia.org/
+https://www.the-express.com/, RIGHT, MIXED,https://www.the-express.com/
+https://www.broadsheet.com.au/, LEAST BIASED, HIGH,https://www.broadsheet.com.au/
+https://www.thetimes.co.uk/, RIGHT-CENTER, HIGH,https://www.thetimes.co.uk/
+https://www.ft.com/, LEAST BIASED, HIGH,https://www.ft.com/
+https://www.theguardian.com/, LEFT-CENTER, MIXED,https://www.theguardian.com/
+https://www.scmp.com/asia, RIGHT, MIXED,https://www.scmp.com/
+https://www.heraldmailmedia.com/, LEFT-CENTER, HIGH,https://www.heraldmailmedia.com/
+https://en.wikipedia.org/wiki/Pub, EXTREME RIGHT, VERY LOW,https://en.wikipedia.org/
+https://www.morningadvertiser.co.uk/, LEAST BIASED, HIGH,https://www.morningadvertiser.co.uk/
+https://www.standard.co.uk/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.standard.co.uk/
+https://inews.co.uk/, LEFT-CENTER, HIGH,https://inews.co.uk/
+https://www.cityam.com/, EXTREME RIGHT, LOW,https://www.cityam.com/
+https://www.independent.co.uk/us, LEFT-CENTER, MIXED,https://www.independent.co.uk/
+http://reference.sketchdaily.net/, EXTREME RIGHT, MIXED,http://reference.sketchdaily.net/
+https://www.shipnc.com/, LEAST BIASED, HIGH,https://www.shipnc.com/
+https://northainley.co.uk/new-stamp-duty-charges-for-residential-property-purchases/, LEFT-CENTER, HIGH,https://northainley.co.uk/
+https://www.theguardian.com/uk/manchester, RIGHT, MIXED,https://www.theguardian.com/
+https://en.wikipedia.org/wiki/The_Morning_Chronicle, RIGHT CENTER, HIGH,https://en.wikipedia.org/
+https://www.mirror.co.uk/all-about/sunday-mirror, RIGHT-CENTER, HIGH,https://www.mirror.co.uk/
+https://www.express.co.uk/news/sunday, LEAST BIASED, MIXED,https://www.express.co.uk/
+https://www.theguardian.com/observer, RIGHT, MIXED,https://www.theguardian.com/
+https://www.thepeople.org/, RIGHT-SATIRE, N,https://www.thepeople.org/
+https://en.wikipedia.org/wiki/Reynold%27s_News, LEAST BIASED, MIXED,https://en.wikipedia.org/
+https://www.psdispatch.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.psdispatch.com/
+https://www.weeklytimesnow.com.au/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.weeklytimesnow.com.au/
+https://www.thetimes.co.uk/, RIGHT-CENTER, HIGH,https://www.thetimes.co.uk/
+https://michiganchronicle.com/, RIGHT, MIXED,https://michiganchronicle.com/
+https://www.liverpoolecho.co.uk/, RIGHT-CENTER, HIGH,https://www.liverpoolecho.co.uk/
+https://www.chroniclelive.co.uk/, RIGHT-CENTER, HIGH,https://www.chroniclelive.co.uk/
+https://www.shropshirestar.com/, EXTREME RIGHT, LOW,https://www.shropshirestar.com/
+https://www.leicestermercury.co.uk/, RIGHT-CENTER, HIGH,https://www.leicestermercury.co.uk/
+https://www.yorkshirepost.co.uk/, RIGHT, MIXED,https://www.yorkshirepost.co.uk/
+https://www.gazettelive.co.uk/, LEFT-CENTER, HIGH,https://www.gazettelive.co.uk/
+https://www.birminghammail.co.uk/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.birminghammail.co.uk/
+https://www.derbytelegraph.co.uk/, RIGHT-CENTER, HIGH,https://www.derbytelegraph.co.uk/
+https://www.echo-news.co.uk/, LEFT-CENTER, HIGH,https://www.echo-news.co.uk/
+https://www.nottinghampost.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.nottinghampost.com/
+https://www.bristolpost.co.uk/, LEAST BIASED, HIGH,https://www.bristolpost.co.uk/
+https://www.sunderlandecho.com/, EXTREME RIGHT, LOW,https://www.sunderlandecho.com/
+https://www.theboltonnews.co.uk/, LEAST BIASED, HIGH,https://www.theboltonnews.co.uk/
+https://www.livpost.co.uk/, LEFT-CENTER, HIGH,https://www.livpost.co.uk/
+https://www.greenbaypressgazette.com/, LEAST BIASED, HIGH,https://www.greenbaypressgazette.com/
+https://portal.issn.org/, LEFT-CENTER, HIGH,https://portal.issn.org/
+https://archive.org/web/, LEFT-CENTER, HIGH,https://archive.org/
+https://www.theguardian.com/us/media, LEAST BIASED, VERY HIGH,https://www.theguardian.com/
+https://www.kent.ac.uk/50/profiles/people/seymour-ure-colin.html, EXTREME RIGHT, LOW,https://www.kent.ac.uk/
+https://en.wikipedia.org/wiki/Compact_(newspaper), RIGHT CONSPIRACY-PSEUDOSCIENCE, LOW,https://en.wikipedia.org/
+https://www.pressreader.com/uk/midweek-sport, LEFT, HIGH,https://www.pressreader.com/
+https://www.bbc.co.uk/sounds/play/live:bbc_radio_one, LEFT-CENTER, HIGH,https://www.bbc.co.uk/
+https://www.digone.com/, RIGHT, MIXED,https://www.digone.com/
+https://hitsradio.com/, LEAST BIASED, HIGH,https://hitsradio.com/
+https://en.wikipedia.org/wiki/Kiss_Network, RIGHT-CENTER, HIGH,https://en.wikipedia.org/
+https://www.lbcexpress.com/, EXTREME RIGHT, LOW,https://www.lbcexpress.com/
+https://www.lbc.co.uk/news/, RIGHT-CENTER, MIXED,https://www.lbc.co.uk/
+https://soundigitalusa.com/, RIGHT, MIXED,https://soundigitalusa.com/
+https://talksport.com/, RIGHT, MIXED,https://talksport.com/
+https://talk.tv/, RIGHT, MIXED,https://talk.tv/
+https://www.youtube.com/channel/UCTjDhFuGXlhx9Us0gq0VK2w, RIGHT, MIXED,https://www.youtube.com/
+https://en.wikipedia.org/wiki/Broadcasting_House, LEFT SATIRE, N,https://en.wikipedia.org/
+https://www.radioacademy.org/, LEFT-CENTER, HIGH,https://www.radioacademy.org/
+https://www.musicweek.com/media/read/rajar-q3-analysis-bbc-radio-6-music-ratings-soar-following-schedule-changes/088722, RIGHT-CENTER, HIGH,https://www.musicweek.com/
+https://www.bbc.co.uk/programmes/p01kgc80/p01kgd84, LEAST BIASED, MIXED,https://www.bbc.co.uk/
+https://www.bbc.co.uk/bbcone, LEAST BIASED, HIGH,https://www.bbc.co.uk/
+https://www.bbc.co.uk/bbctwo, RIGHT, MIXED,https://www.bbc.co.uk/
+https://www.bbc.co.uk/bbcthree, LEFT-CENTER, MOSTLY FACTUAL,https://www.bbc.co.uk/
+https://www.bbc.co.uk/bbcfour/, LEAST BIASED, MIXED,https://www.bbc.co.uk/
+https://www.bbc.co.uk/tv/bbcparliament, LEFT-CENTER, MIXED,https://www.bbc.co.uk/
+https://en.wikipedia.org/wiki/BBC_Alba, FAR LEFT, MOSTLY FACTUAL,https://en.wikipedia.org/
+https://www.bbc.co.uk/cbbc, LEAST BIASED, MIXED,https://www.bbc.co.uk/
+https://www.cbeebies.com/, EXTREME RIGHT, LOW,https://www.cbeebies.com/
+https://www.itv.com/watch, RIGHT, MIXED,https://www.itv.com/
+https://www.itv.com/watch?channel=itv2, LEAST BIASED, MOSTLY FACTUAL,https://www.itv.com/
+https://www.itv.com/watch?channel=itv3, RIGHT, MIXED,https://www.itv.com/
+https://www.itv.com/watch?channel=itv4, RIGHT, MIXED,https://www.itv.com/
+https://www.itv.com/watch?channel=itvbe, RIGHT, MIXED,https://www.itv.com/
+https://en.wikipedia.org/wiki/S4C_Authority, PRO-SCIENCE, MOSTLY FACTUAL,https://en.wikipedia.org/
+https://www.channel4.com/, LEFT-CENTER, HIGH,https://www.channel4.com/
+https://www.s4c.cymru/en/, EXTREME RIGHT, VERY LOW,https://www.s4c.cymru/
+https://www.channel4.com/collection/film4, Conspiracy and Pseudoscience, LOW,https://www.channel4.com/
+https://www.channel4.com/, LEFT-CENTER, HIGH,https://www.channel4.com/
+https://www.channel4.com/now/4s, LEFT-CENTER, HIGH,https://www.channel4.com/
+https://en.wikipedia.org/wiki/4Music, PRO-SCIENCE, VERY HIGH,https://en.wikipedia.org/
+https://media.info/television/channels/kiss-tv/logo-archive, EXTREME RIGHT, LOW,https://media.info/
+https://www.facebook.com/KerrangTV/, EXTREME RIGHT, LOW,https://www.facebook.com/
+https://www.5starstudents.com/, EXTREME RIGHT, LOW,https://www.5starstudents.com/
+https://www.channel5.com/channels/5usa, LEFT-CENTER, HIGH,https://www.channel5.com/
+https://www.sky.com/, RIGHT-CENTER, HIGH,https://www.sky.com/
+https://www.sky.com/watch/channel/sky-arts, RIGHT, MIXED,https://www.sky.com/
+https://www.sky.com/watch/channel/sky-atlantic, LEAST BIASED, MOSTLY FACTUAL,https://www.sky.com/
+https://www.sky.com/tv/cinema, RIGHT, MIXED,https://www.sky.com/
+https://www.sky.com/watch/channel/sky-comedy, LEAST BIASED, MOSTLY FACTUAL,https://www.sky.com/
+https://www.sky.com/watch/sky-documentaries, LEAST BIASED, MOSTLY FACTUAL,https://www.sky.com/
+https://www.cable.co.uk/tv/providers/sky-tv/sky-max/, LEAST BIASED, HIGH,https://www.cable.co.uk/
+https://en.m.wikipedia.org/wiki/File:Sky_Nature.svg, PSEUDOSCIENCE, MIXED,https://en.m.wikipedia.org/
+https://news.sky.com/, LEAST BIASED, HIGH,https://news.sky.com/
+https://en.wikipedia.org/wiki/File:Sky_Replay_logo_2020.svg, LEAST BIASED, HIGH,https://en.wikipedia.org/
+https://en.m.wikipedia.org/wiki/File:Sky_Sci-Fi_2022.svg, LEAST BIASED, HIGH,https://en.m.wikipedia.org/
+https://www.skymedia.co.uk/channels/sky-showcase/, NOT RATED, MIXED,https://www.skymedia.co.uk/
+https://www.skysports.com/, RIGHT, MIXED,https://www.skysports.com/
+https://uktvplay.co.uk/, LEFT, MIXED,https://uktvplay.co.uk/
+https://www.cnn.com/, LEFT, MOSTLY FACTUAL,https://www.cnn.com/
+https://commons.wikimedia.org/wiki/File:Discovery_History_logo.svg, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://commons.wikimedia.org/
+https://pt.wikipedia.org/wiki/Discovery_Turbo, LEAST BIASED, HIGH,https://pt.wikipedia.org/
+https://www.eurosport.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.eurosport.com/
+https://www.eurosport.com/watch/eurosport-2/, RIGHT-CENTER, HIGH,https://www.eurosport.com/
+https://www.foodnetwork.com/, PRO-SCIENCE, HIGH,https://www.foodnetwork.com/
+https://en.wikipedia.org/wiki/Quest_Red, PSEUDOSCIENCE, MIXED,https://en.wikipedia.org/
+https://en.wikipedia.org/wiki/Pop_Max, LEAST BIASED, HIGH,https://en.wikipedia.org/
+https://www.greatnetwork.com/tv/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.greatnetwork.com/
+https://www.timeout.com/film/best-movies-of-all-time, CONSPIRACY-PSEUDOSCIENCE, LOW,https://www.timeout.com/
+https://www.greatnetwork.com/romance/, RIGHT, MIXED,https://www.greatnetwork.com/
+https://www.tinypop.com/, RIGHT, MIXED,https://www.tinypop.com/
+https://www.bbc.co.uk/iplayer, LEAST BIASED, MIXED,https://www.bbc.co.uk/
+https://www.bt.com/tv, EXTREME RIGHT, LOW,https://www.bt.com/
+https://www.disneyplus.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.disneyplus.com/
+https://www.freesat.co.uk/, RIGHT, MIXED,https://www.freesat.co.uk/
+https://www.freesat.co.uk/, RIGHT, MIXED,https://www.freesat.co.uk/
+https://www.freeview.co.uk/, RIGHT-CENTER, HIGH,https://www.freeview.co.uk/
+https://www.itv.com/, RIGHT-CENTER, HIGH,https://www.itv.com/
+https://player.stv.tv/, LEFT, MIXED,https://player.stv.tv/
+https://www.channel5.com/, LEFT-CENTER, HIGH,https://www.channel5.com/
+https://www.nowtv.com/, LEAST BIASED, HIGH,https://www.nowtv.com/
+https://www.netflix.com/, LEFT-CENTER, HIGH,https://www.netflix.com/
+https://www.paramountplus.com/, RIGHT, MIXED,https://www.paramountplus.com/
+https://en.wikipedia.org/wiki/Pop_Player, RIGHT CONSPIRACY-PSEUDOSCIENCE, LOW,https://en.wikipedia.org/
+http://www.skygroup.sky/, RIGHT, MIXED,http://www.skygroup.sky/
+https://www.digitalspy.com/tech/television/a670048/sky-tips-and-tricks-9-secret-features-to-get-the-most-out-of-your-sky-hd-box/, LEFT, HIGH,https://www.digitalspy.com/
+https://www.dailystar.co.uk/tech/news/end-sky-hd-popular-box-17248964, LEFT-CENTER, MIXED,https://www.dailystar.co.uk/
+https://www.cable.co.uk/tv/providers/talktalk-tv/channels/, LEFT-CENTER, HIGH,https://www.cable.co.uk/
+https://tvplayer.com/US/, LEAST BIASED, HIGH,https://tvplayer.com/
+https://virgintvgo.virginmedia.com/, RIGHT, MIXED,https://virgintvgo.virginmedia.com/
+https://variety.com/2014/digital/news/disney-sony-sell-filmflex-u-k-vod-venture-1201193857/, LEFT-CENTER, HIGH,https://variety.com/
+https://www.tivo.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.tivo.com/
+http://www.simphonics.com/products/software/vplus/, RIGHT, MIXED,http://www.simphonics.com/
+https://www.youview.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.youview.com/
+https://shop.bbc.com/, LEFT-CENTER, HIGH,https://shop.bbc.com/
+https://en.wikipedia.org/wiki/Film4oD, FAR RIGHT, MIXED,https://en.wikipedia.org/
+https://www.realdigital.org/, LEFT-CENTER, HIGH,https://www.realdigital.org/
+https://en.wikipedia.org/wiki/Mailbox_Birmingham, LEFT-CENTER, MIXED,https://en.wikipedia.org/
+http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSgpH1kDj_aZGYnJycUmMOOXOyBbOZdjz8Z1qA3p7pg_sr3XxxL2rPqUHe93VRdfNiC, RIGHT, MIXED,http://t3.gstatic.com/
+https://en.wikipedia.org/wiki/Granada_Studios, LEAST BIASED, HIGH,https://en.wikipedia.org/
+https://riversidestudios.co.uk/, EXTREME RIGHT, LOW,https://riversidestudios.co.uk/
+https://en.wikipedia.org/wiki/Roath_Lock, LEFT-CENTER, HIGH,https://en.wikipedia.org/
+https://www.skycampushappiness.org/, LEFT-CENTER, HIGH,https://www.skycampushappiness.org/
+https://www.facebook.com/permalink.php?story_fbid=165696425016241&id=103694067883144&substory_index=0, LEFT, HIGH,https://www.facebook.com/
+https://isleofdogslife.wordpress.com/2013/03/25/spitting-images-the-story-of-limehouse-television-studios/, RIGHT, MIXED,https://isleofdogslife.wordpress.com/
+https://en.wikipedia.org/wiki/MGM-British_Studios, RIGHT CONSPIRACY-PSEUDOSCIENCE, LOW,https://en.wikipedia.org/
+https://en.wikipedia.org/wiki/Teddington_Studios, LEAST BIASED, HIGH,https://en.wikipedia.org/
+https://www.ascential.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.ascential.com/
+https://www.harborfreight.com/20v-cordless-compact-radio-with-bluetooth-tool-only-64825.html, LEAST BIASED, MOSTLY FACTUAL,https://www.harborfreight.com/
+https://www.bbc.com/, LEFT-CENTER, HIGH,https://www.bbc.com/
+https://www.bloomsbury.com/us/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.bloomsbury.com/
+https://www.bt.com/about, RIGHT-CENTER, MOSTLY FACTUAL,https://www.bt.com/
+https://www.dentsu.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.dentsu.com/
+https://www.economistgroup.com/, EXTREME RIGHT, LOW,https://www.economistgroup.com/
+https://www.futureplc.com/, RIGHT, MIXED,https://www.futureplc.com/
+https://www.informa.com/, LEAST BIASED, HIGH,https://www.informa.com/
+https://www.itnnetworks.com/, EXTREME RIGHT, LOW,https://www.itnnetworks.com/
+https://www.bbc.com/news/uk-scotland-67212120, LEFT-CENTER, HIGH,https://www.bbc.com/
+https://www.newsquest.co.uk/, LEAST BIASED, HIGH,https://www.newsquest.co.uk/
+https://plc.pearson.com/en-GB, RIGHT, MIXED,https://plc.pearson.com/
+https://en.wikipedia.org/wiki/Press_Holdings, EXTREME RIGHT, LOW,https://en.wikipedia.org/
+https://www.reachplc.com/, RIGHT, MIXED,https://www.reachplc.com/
+https://relxnow.com/, RIGHT, MIXED,https://relxnow.com/
+https://stvinc.com/, RIGHT, MIXED,https://stvinc.com/
+https://www.crunchbase.com/organization/syco-entertainment, RIGHT-CENTER, HIGH,https://www.crunchbase.com/
+https://www.talktalkgroup.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.talktalkgroup.com/
+https://www.news.co.uk/, EXTREME RIGHT, VERY LOW,https://www.news.co.uk/
+https://www.arqiva.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.arqiva.com/
+https://www.bbc.com/aboutthebbc/whoweare/bbcboard, LEFT-CENTER, HIGH,https://www.bbc.com/
+https://en.wikipedia.org/wiki/BBC_Trust, FAR LEFT, MOSTLY FACTUAL,https://en.wikipedia.org/
+https://www.ofcom.org.uk/home, FAR LEFT, MOSTLY FACTUAL,https://www.ofcom.org.uk/
+https://sepro.com/aquatics/clearcast, RIGHT, MIXED,https://sepro.com/
+https://www.everyonetv.co.uk/, LEFT-CENTER, HIGH,https://www.everyonetv.co.uk/
+https://www.themirror.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.themirror.com/
+https://en.wikipedia.org/wiki/Middle-market_newspaper, LEFT-CENTER, MIXED,https://en.wikipedia.org/
+https://www.the-express.com/, RIGHT, MIXED,https://www.the-express.com/
+https://fortune.com/newsletter/broadsheet/, RIGHT, MIXED,https://fortune.com/
+https://www.thetimes.co.uk/, RIGHT-CENTER, HIGH,https://www.thetimes.co.uk/
+https://www.ft.com/, LEAST BIASED, HIGH,https://www.ft.com/
+https://www.theguardian.com/, LEFT-CENTER, MIXED,https://www.theguardian.com/
+https://www.scmp.com/asia, RIGHT, MIXED,https://www.scmp.com/
+https://www.heraldmailmedia.com/, LEFT-CENTER, HIGH,https://www.heraldmailmedia.com/
+https://en.wikipedia.org/wiki/Pub, EXTREME RIGHT, VERY LOW,https://en.wikipedia.org/
+https://www.morningadvertiser.co.uk/, LEAST BIASED, HIGH,https://www.morningadvertiser.co.uk/
+https://www.standard.co.uk/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.standard.co.uk/
+https://inews.co.uk/, LEFT-CENTER, HIGH,https://inews.co.uk/
+https://www.cityam.com/, PRO-SCIENCE, HIGH,https://www.cityam.com/
+https://www.independent.co.uk/us, LEFT-CENTER, MIXED,https://www.independent.co.uk/
+http://reference.sketchdaily.net/, EXTREME RIGHT, MIXED,http://reference.sketchdaily.net/
+https://www.shipnc.com/, EXTREME RIGHT, LOW,https://www.shipnc.com/
+https://northainley.co.uk/new-stamp-duty-charges-for-residential-property-purchases/, LEFT-CENTER, HIGH,https://northainley.co.uk/
+https://www.theguardian.com/uk/manchester, RIGHT, MIXED,https://www.theguardian.com/
+https://en.wikipedia.org/wiki/The_Morning_Chronicle, LEFT-CENTER, HIGH,https://en.wikipedia.org/
+https://www.mirror.co.uk/all-about/sunday-mirror, RIGHT-CENTER, HIGH,https://www.mirror.co.uk/
+https://www.express.co.uk/news/sunday, LEFT-CENTER, HIGH,https://www.express.co.uk/
+https://www.theguardian.com/observer, LEFT-CENTER, HIGH,https://www.theguardian.com/
+https://www.thepeople.org/, RIGHT-SATIRE, N,https://www.thepeople.org/
+https://en.wikipedia.org/wiki/Reynold's_News, LEAST BIASED, HIGH,https://en.wikipedia.org/
+https://www.psdispatch.com/, RIGHT, MIXED,https://www.psdispatch.com/
+https://en.wikipedia.org/wiki/Sunday_Chronicle, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://en.wikipedia.org/
+https://www.weeklytimesnow.com.au/, PRO-SCIENCE, HIGH,https://www.weeklytimesnow.com.au/
+https://www.thetimes.co.uk/, RIGHT-CENTER, HIGH,https://www.thetimes.co.uk/
+https://michiganchronicle.com/, RIGHT, MIXED,https://michiganchronicle.com/
+https://www.liverpoolecho.co.uk/, LEAST BIASED, VERY HIGH,https://www.liverpoolecho.co.uk/
+https://www.chroniclelive.co.uk/, RIGHT-CENTER, HIGH,https://www.chroniclelive.co.uk/
+https://www.shropshirestar.com/, RIGHT, MIXED,https://www.shropshirestar.com/
+https://www.leicestermercury.co.uk/, RIGHT-CENTER, HIGH,https://www.leicestermercury.co.uk/
+https://www.yorkshirepost.co.uk/, PRO-SCIENCE, HIGH,https://www.yorkshirepost.co.uk/
+https://www.gazettelive.co.uk/, RIGHT, MIXED,https://www.gazettelive.co.uk/
+https://www.birminghammail.co.uk/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.birminghammail.co.uk/
+https://www.echo-news.co.uk/, EXTREME RIGHT, LOW,https://www.echo-news.co.uk/
+https://www.nottinghampost.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.nottinghampost.com/
+https://www.bristolpost.co.uk/, LEFT-CENTER, HIGH,https://www.bristolpost.co.uk/
+https://www.coventrytelegraph.net/, CONSPIRACY-PSEUDOSCIENCE, MIXED,https://www.coventrytelegraph.net/
+https://www.sunderlandecho.com/, PRO-SCIENCE, HIGH,https://www.sunderlandecho.com/
+https://www.theboltonnews.co.uk/, LEFT-CENTER, HIGH,https://www.theboltonnews.co.uk/
+https://www.livpost.co.uk/, LEAST BIASED, HIGH,https://www.livpost.co.uk/
+https://www.greenbaypressgazette.com/, LEAST BIASED, HIGH,https://www.greenbaypressgazette.com/
+https://archive.org/web/, LEFT-CENTER, HIGH,https://archive.org/
+https://www.theguardian.com/us/media, LEAST BIASED, VERY HIGH,https://www.theguardian.com/
+https://www.kent.ac.uk/50/profiles/people/seymour-ure-colin.html, LEFT, MOSTLY FACTUAL,https://www.kent.ac.uk/
+https://en.wikipedia.org/wiki/Compact_(newspaper), RIGHT CONSPIRACY-PSEUDOSCIENCE, LOW,https://en.wikipedia.org/
+https://www.pressreader.com/uk/midweek-sport, LEAST BIASED, HIGH,https://www.pressreader.com/
+https://www.bbc.co.uk/sounds/play/live:bbc_radio_one, LEFT-CENTER, HIGH,https://www.bbc.co.uk/
+https://www.digone.com/, PRO-SCIENCE, HIGH,https://www.digone.com/
+https://twitter.com/hitsradiouk/status/1717586904990793749?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet, EXTREME RIGHT, LOW,https://twitter.com/
+https://www.lbcexpress.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.lbcexpress.com/
+https://www.lbc.co.uk/news/, RIGHT-CENTER, MIXED,https://www.lbc.co.uk/
+https://www.who.int/news-room/, EXTREME RIGHT, LOW,https://www.who.int/
+https://www.sportingnews.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.sportingnews.com/
+https://www.skysports.com/, RIGHT, MIXED,https://www.skysports.com/
+https://www.sbnation.com/, PRO-SCIENCE, HIGH,https://www.sbnation.com/
+https://www.sportskeeda.com/, RIGHT, MIXED,https://www.sportskeeda.com/
+https://deadspin.com/, LEFT-CENTER, HIGH,https://deadspin.com/
+https://www.secsports.com/, RIGHT, MIXED,https://www.secsports.com/
+https://sports.inquirer.net/, LEFT-CENTER, HIGH,https://sports.inquirer.net/
+https://n.rivals.com/, RIGHT-CENTER, HIGH,https://n.rivals.com/
+https://www.sports-gator.com/, LEAST BIASED, HIGH,https://www.sports-gator.com/
+https://sportsweez.com/, RIGHT, MIXED,https://sportsweez.com/
+https://www.footymercato.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.footymercato.com/
+https://www.footymercato.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.footymercato.com/
+https://www.sportsnewsireland.com/, RIGHT, MIXED,https://www.sportsnewsireland.com/
+https://www.essentiallysports.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.essentiallysports.com/
+https://www.sportingfree.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.sportingfree.com/
+https://www.codesports.com.au/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.codesports.com.au/
+https://www.whatproswear.com/, EXTREME RIGHT, LOW,https://www.whatproswear.com/
+https://usatodayhss.com/, LEAST BIASED, HIGH,https://usatodayhss.com/
+https://www.boxingnewsonline.net/opinion/, EXTREME RIGHT, LOW,https://www.boxingnewsonline.net/
+https://www.thesportsnews.in/, RIGHT-CENTER, HIGH,https://www.thesportsnews.in/
+https://prospectinsider.com/, LEAST BIASED, HIGH,https://prospectinsider.com/
+https://wwos.nine.com.au/, LEFT-CENTER, MIXED,https://wwos.nine.com.au/
+https://www.sportsnet.ca/, LEFT-CENTER, HIGH,https://www.sportsnet.ca/
+https://www.sportscrunch.in/, LEAST BIASED, HIGH,https://www.sportscrunch.in/
+https://footballaudit.com/, RIGHT, MIXED,https://footballaudit.com/
+https://sport360.com/, LEFT-CENTER, HIGH,https://sport360.com/
+https://www.sportelo.com.ng/, EXTREME RIGHT, LOW,https://www.sportelo.com.ng/
+https://xtratime.in/, EXTREME RIGHT, LOW,https://xtratime.in/
+https://defector.com/, LEFT-CENTER, HIGH,https://defector.com/
+https://prosportsoutlook.com/, RIGHT, MIXED,https://prosportsoutlook.com/
+https://purpleptsd.com/, RIGHT, MIXED,https://purpleptsd.com/
+https://sportsdark.com/, RIGHT, MIXED,https://sportsdark.com/
+https://unafraidshow.com/, RIGHT, MIXED,https://unafraidshow.com/
+https://www.theroar.com.au/cricket/, RIGHT-CENTER, MIXED,https://www.theroar.com.au/
+https://sidelinesources.com/, RIGHT, MIXED,https://sidelinesources.com/
+https://sportsdanka.com/, RIGHT, MIXED,https://sportsdanka.com/
+https://vikingsterritory.com/, RIGHT, MIXED,https://vikingsterritory.com/
+https://worldinsport.com/, RIGHT, MIXED,https://worldinsport.com/
+https://sportspac12.com/, RIGHT, MIXED,https://sportspac12.com/
+https://sportsration.com/, RIGHT, MIXED,https://sportsration.com/
+https://21sportsnews.com/, RIGHT, MIXED,https://21sportsnews.com/
+https://www.thesportsmirror.com/, RIGHT, MIXED,https://www.thesportsmirror.com/
+https://westwoodonesports.com/, RIGHT, MIXED,https://westwoodonesports.com/
+https://www.csipacific.ca/, PRO-SCIENCE, HIGH,https://www.csipacific.ca/
+https://www.abstractsports.com/blog/, EXTREME RIGHT, VERY LOW,https://www.abstractsports.com/
+https://sportscafe.in/, LEFT, MIXED,https://sportscafe.in/
+https://www.dkpittsburghsports.com/, RIGHT, MIXED,https://www.dkpittsburghsports.com/
+https://news.22bet.com/news/, LEAST BIASED, MOSTLY FACTUAL,https://news.22bet.com/
+https://readscoops.com/, RIGHT, MIXED,https://readscoops.com/
+https://pacificnwsports.com/, RIGHT, MIXED,https://pacificnwsports.com/
+https://seriouslysports.com/, RIGHT, MIXED,https://seriouslysports.com/
+https://www.sportsmanagement.co.uk/, RIGHT-CENTER, HIGH,https://www.sportsmanagement.co.uk/
+https://www.completesports.com/, EXTREME RIGHT, LOW,https://www.completesports.com/
+https://sportgrill.blog/, LEAST BIASED, HIGH,https://sportgrill.blog/
+https://ashsportstalk.org/blogs/, RIGHT, MIXED,https://ashsportstalk.org/
+https://allourthanks.com/, LEAST BIASED, HIGH,https://allourthanks.com/
+https://4pmghsports.com/, RIGHT, MIXED,https://4pmghsports.com/
+https://www.e2gsports.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.e2gsports.com/
+https://www.footballcritic.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.footballcritic.com/
+https://sportsmintmedia.com/, RIGHT, MIXED,https://sportsmintmedia.com/
+https://atojsports.game.blog/, EXTREME RIGHT, VERY LOW,https://atojsports.game.blog/
+https://www.youtube.com/channel/UC5yB3mDwRyLNeRvfCSdKMeg, RIGHT, MIXED,https://www.youtube.com/
+https://www.youtube.com/channel/UCojyGFb8W2xxSsJ5c_XburQ, RIGHT, MIXED,https://www.youtube.com/
+https://www.yardbarker.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.yardbarker.com/
+https://www.mlb.com/news, LEFT-CENTER, MIXED,https://www.mlb.com/
+https://tooathletic.com/, RIGHT, MIXED,https://tooathletic.com/
+https://www.nytimes.com/section/world, LEFT-CENTER, HIGH,https://www.nytimes.com/
+https://www.aljazeera.com/, LEFT-CENTER, MIXED,https://www.aljazeera.com/
+https://defence-blog.com/, LEFT-CENTER, MOSTLY FACTUAL,https://defence-blog.com/
+https://www.e-ir.info/, LEAST BIASED, HIGH,https://www.e-ir.info/
+https://www.thecipherbrief.com/, LEAST BIASED, HIGH,https://www.thecipherbrief.com/
+https://www.bbc.com/, LEFT-CENTER, HIGH,https://www.bbc.com/
+https://time.com/, LEFT-CENTER, HIGH,https://time.com/
+https://abcnews.go.com/International, LEFT-CENTER, HIGH,https://abcnews.go.com/
+https://timesofindia.indiatimes.com/world, RIGHT, MIXED,https://timesofindia.indiatimes.com/
+https://edition.cnn.com/world, RIGHT, MIXED,https://edition.cnn.com/
+https://www.reuters.com/world/, N, MIXED,https://www.reuters.com/
+https://www.cbsnews.com/world/, LEFT, HIGH,https://www.cbsnews.com/
+https://www.scmp.com/, LEFT-CENTER, MIXED,https://www.scmp.com/
+https://bbcbreakingnews.com/, LEAST BIASED, HIGH,https://bbcbreakingnews.com/
+https://www.france24.com/en/, LEAST BIASED, HIGH,https://www.france24.com/
+https://www.rt.com/news/, RIGHT-CENTER, VERY LOW,https://www.rt.com/
+https://www.latimes.com/world-nation, LEFT SATIRE, N,https://www.latimes.com/
+https://www.ctvnews.ca/world, LEAST BIASED, HIGH,https://www.ctvnews.ca/
+https://www.news24.com/World, LEFT, HIGH,https://www.news24.com/
+https://news.sky.com/world, LEAST BIASED, HIGH,https://news.sky.com/
+https://www.smh.com.au/world, LEFT, HIGH,https://www.smh.com.au/
+https://www.spiegel.de/international/, LEFT-CENTER, HIGH,https://www.spiegel.de/
+https://reporter.am/, LEFT, HIGH,https://reporter.am/
+https://globalnews.ca/world/, LEFT-CENTER, HIGH,https://globalnews.ca/
+https://www.pri.org/, LEFT-CENTER, HIGH,https://www.pri.org/
+https://www.breakingnews.ie/world/, LEFT-CENTER, HIGH,https://www.breakingnews.ie/
+https://www.csmonitor.com/World, RIGHT, MIXED,https://www.csmonitor.com/
+https://www.rand.org/topics/international-affairs.html, LEFT, HIGH,https://www.rand.org/
+https://www.washingtonpost.com/world/, RIGHT, MIXED,https://www.washingtonpost.com/
+https://www.headlinesoftoday.com/, RIGHT, MIXED,https://www.headlinesoftoday.com/
+https://www.thelocal.es/, LEFT-CENTER, HIGH,https://www.thelocal.es/
+https://internewscast.com/, RIGHT, MIXED,https://internewscast.com/
+https://247newsaroundtheworld.com/, RIGHT, MIXED,https://247newsaroundtheworld.com/
+https://worldnewsera.com/, LEFT-CENTER, MIXED,https://worldnewsera.com/
+https://ifpnews.com/, RIGHT, MIXED,https://ifpnews.com/
+https://newsblaze.com/, EXTREME RIGHT, MIXED,https://newsblaze.com/
+https://www.worldstopexports.com/, EXTREME RIGHT, LOW,https://www.worldstopexports.com/
+https://www.wugt.news/, EXTREME RIGHT, LOW,https://www.wugt.news/
+https://warnewsupdates.blogspot.com/, PRO-SCIENCE, HIGH,https://warnewsupdates.blogspot.com/
+https://3-mob.com/, RIGHT, MIXED,https://3-mob.com/
+https://www.easternherald.com/, RIGHT, MIXED,https://www.easternherald.com/
+https://insidexpress.com/, LEAST BIASED, HIGH,https://insidexpress.com/
+https://warontherocks.com/, LEAST BIASED, HIGH,https://warontherocks.com/
+https://www.watchdoguganda.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.watchdoguganda.com/
+https://www.thenexthint.com/, RIGHT, MIXED,https://www.thenexthint.com/
+https://smallwarsjournal.com/blog/recent, LEAST BIASED, HIGH,https://smallwarsjournal.com/
+https://globalpressjournal.com/, RIGHT, MIXED,https://globalpressjournal.com/
+https://worldweeklynews.com/, RIGHT, MIXED,https://worldweeklynews.com/
+https://wan-ifra.org/news/, RIGHT, MIXED,https://wan-ifra.org/
+https://dailyresearchplot.com/, RIGHT, MIXED,https://dailyresearchplot.com/
+https://justworldnews.org/, LEFT, MIXED,https://justworldnews.org/
+https://newsblenda.com/, RIGHT, MIXED,https://newsblenda.com/
+https://warritatafo.com/, RIGHT, MIXED,https://warritatafo.com/
+https://articleify.com/, LEAST BIASED, HIGH,https://articleify.com/
+https://www.marketingdive.com/, EXTREME RIGHT, LOW,https://www.marketingdive.com/
+https://www.marketingtechnews.net/, LEAST BIASED, VERY HIGH,https://www.marketingtechnews.net/
+https://www.adweek.com/, LEAST BIASED, HIGH,https://www.adweek.com/
+https://www.socialmediatoday.com/, LEAST BIASED, HIGH,https://www.socialmediatoday.com/
+https://www.cmswire.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.cmswire.com/
+https://ethicalmarketingnews.com/, LEAST BIASED, HIGH,https://ethicalmarketingnews.com/
+https://www.supermarketnews.com/news/marketing, LEAST BIASED, HIGH,https://www.supermarketnews.com/
+https://searchengineland.com/, RIGHT, MIXED,https://searchengineland.com/
+https://www.ama.org, PRO-SCIENCE, HIGH,https://www.ama.org
+https://www.searchenginejournal.com/, RIGHT, MIXED,https://www.searchenginejournal.com/
+https://www.mediapost.com/, LEAST BIASED, HIGH,https://www.mediapost.com/
+https://marcommnews.com/, RIGHT, MIXED,https://marcommnews.com/
+https://www.clickz.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.clickz.com/
+https://the-cma.com/news/, LEFT, MIXED,https://the-cma.com/
+https://whatsnewinpublishing.com/, RIGHT, MIXED,https://whatsnewinpublishing.com/
+https://www.socialmediaexaminer.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.socialmediaexaminer.com/
+https://brandequity.economictimes.indiatimes.com/news/marketing, LEFT-CENTER, HIGH,https://brandequity.economictimes.indiatimes.com/
+https://www.thedrum.com/us, RIGHT-CENTER, MOSTLY FACTUAL,https://www.thedrum.com/
+https://www.techmeme.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.techmeme.com/
+https://arstechnica.com/, LEAST BIASED, HIGH,https://arstechnica.com/
+https://techcrunch.com/, LEFT-CENTER, HIGH,https://techcrunch.com/
+https://www.engadget.com/, LEFT-CENTER, HIGH,https://www.engadget.com/
+https://www.theverge.com/, LEFT-CENTER, HIGH,https://www.theverge.com/
+https://www.androidauthority.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.androidauthority.com/
+https://www.pcworld.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.pcworld.com/
+https://thenextweb.com/, LEFT-CENTER, MOSTLY FACTUAL,https://thenextweb.com/
+https://www.cnet.com/, LEAST BIASED, HIGH,https://www.cnet.com/
+https://www.digitaltrends.com/, LEAST BIASED, HIGH,https://www.digitaltrends.com/
+https://techfullnews.com/, RIGHT, MIXED,https://techfullnews.com/
+https://siliconvalleyjournals.com/, RIGHT, MIXED,https://siliconvalleyjournals.com/
+https://www.nytimes.com/section/technology, RIGHT, MIXED,https://www.nytimes.com/
+https://www.newskart.com/, RIGHT-CENTER, HIGH,https://www.newskart.com/
+https://www.cnet.com/news/, RIGHT-CENTER, VERY LOW,https://www.cnet.com/
+https://gadgets.ndtv.com/, RIGHT, MIXED,https://gadgets.ndtv.com/
+https://www.techradar.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.techradar.com/
+https://www.zdnet.com/, LEAST BIASED, HIGH,https://www.zdnet.com/
+https://www.techspot.com/, LEAST BIASED, HIGH,https://www.techspot.com/
+https://www.techrepublic.com/, RIGHT, MIXED,https://www.techrepublic.com/
+https://venturebeat.com/, RIGHT, MIXED,https://venturebeat.com/
+https://www.digit.in/, PRO-SCIENCE, MOSTLY FACTUAL,https://www.digit.in/
+https://appleinsider.com/, LEAST BIASED, HIGH,https://appleinsider.com/
+https://www.macworld.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.macworld.com/
+https://www.techinasia.com/, RIGHT, MIXED,https://www.techinasia.com/
+https://www.computerworld.com/au/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.computerworld.com/
+https://www.anandtech.com/, RIGHT, MIXED,https://www.anandtech.com/
+https://www.slashgear.com/, EXTREME RIGHT, LOW,https://www.slashgear.com/
+https://www.geekwire.com/, LEAST BIASED, HIGH,https://www.geekwire.com/
+https://www.bgr.in/, LEFT-CENTER, HIGH,https://www.bgr.in/
+https://www.ghacks.net/, CONSPIRACY-PSEUDOSCIENCE, MIXED,https://www.ghacks.net/
+https://www.infoworld.com/, EXTREME RIGHT, LOW,https://www.infoworld.com/
+https://www.theregister.com/, LEAST BIASED, HIGH,https://www.theregister.com/
+https://www.extremetech.com/, PRO-SCIENCE, HIGH,https://www.extremetech.com/
+https://www.computerweekly.com/news, LEFT-CENTER, MOSTLY FACTUAL,https://www.computerweekly.com/
+https://readwrite.com/, RIGHT, MIXED,https://readwrite.com/
+https://www.networkworld.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.networkworld.com/
+https://www.techpout.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.techpout.com/
+https://www.androidheadlines.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.androidheadlines.com/
+https://knowtechie.com/, RIGHT, MIXED,https://knowtechie.com/
+https://www.ubergizmo.com/, EXTREME RIGHT, LOW,https://www.ubergizmo.com/
+https://betanews.com/, LEAST BIASED, HIGH,https://betanews.com/
+https://www.medgadget.com/, RIGHT, MIXED,https://www.medgadget.com/
+https://gigaom.com/, RIGHT, MIXED,https://gigaom.com/
+https://mobilesyrup.com/, LEAST BIASED, HIGH,https://mobilesyrup.com/
+https://www.redmondpie.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.redmondpie.com/
+https://techweez.com/, RIGHT, MIXED,https://techweez.com/
+https://www.eweek.com/, LEAST BIASED, HIGH,https://www.eweek.com/
+https://www.siliconrepublic.com/, RIGHT, MIXED,https://www.siliconrepublic.com/
+https://www.droid-life.com/, RIGHT, MIXED,https://www.droid-life.com/
+https://flipshope.com/blog/, LEFT-CENTER, HIGH,https://flipshope.com/
+https://www.itnews.com.au/, RIGHT-CENTER, HIGH,https://www.itnews.com.au/
+https://www.techjuice.pk/, LEAST BIASED, HIGH,https://www.techjuice.pk/
+https://www.technewsworld.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.technewsworld.com/
+https://researchsnipers.com/, RIGHT, MIXED,https://researchsnipers.com/
+https://www.nextgov.com/, LEAST BIASED, HIGH,https://www.nextgov.com/
+https://www.naval-technology.com/, LEFT-CENTER, HIGH,https://www.naval-technology.com/
+https://enterprisetalk.com/, RIGHT, MIXED,https://enterprisetalk.com/
+https://nocamels.com/, RIGHT, MIXED,https://nocamels.com/
+https://www.developer-tech.com/, LEFT-CENTER, HIGH,https://www.developer-tech.com/
+https://www.betechwise.com/, RIGHT, MIXED,https://www.betechwise.com/
+https://news969.com/, RIGHT, MIXED,https://news969.com/
+https://techplugged.com/, LEAST BIASED, HIGH,https://techplugged.com/
+https://www.rayarena.com/, RIGHT, MIXED,https://www.rayarena.com/
+https://www.theencrypt.com/, EXTREME RIGHT, LOW,https://www.theencrypt.com/
+https://www.chinatechnews.com/, EXTREME RIGHT, LOW,https://www.chinatechnews.com/
+https://www.wibidata.com/, EXTREME RIGHT, LOW,https://www.wibidata.com/
+https://www.gadgetsinnepal.com.np/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.gadgetsinnepal.com.np/
+https://www.platformexecutive.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.platformexecutive.com/
+https://ohsem.me/, LEFT, MIXED,https://ohsem.me/
+https://techcrunch.com/, LEFT-CENTER, HIGH,https://techcrunch.com/
+https://www.theverge.com/, LEFT-CENTER, HIGH,https://www.theverge.com/
+https://mashable.com, LEFT, MOSTLY FACTUAL,https://mashable.com
+https://www.wired.com/, LEFT-CENTER, HIGH,https://www.wired.com/
+https://gizmodo.com/, LEFT, HIGH,https://gizmodo.com/
+https://www.cnet.com/news/, RIGHT-CENTER, VERY LOW,https://www.cnet.com/
+https://www.engadget.com/, LEFT-CENTER, HIGH,https://www.engadget.com/
+https://www.zdnet.com/, LEAST BIASED, HIGH,https://www.zdnet.com/
+https://venturebeat.com/, LEAST BIASED, HIGH,https://venturebeat.com/
+https://readwrite.com/, RIGHT, MIXED,https://readwrite.com/
+https://www.digitaltrends.com/, LEAST BIASED, HIGH,https://www.digitaltrends.com/
+https://www.techmeme.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.techmeme.com/
+https://www.androidcentral.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.androidcentral.com/
+https://www.androidauthority.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.androidauthority.com/
+https://boingboing.net/, LEFT, MIXED,https://boingboing.net/
+https://www.technologyreview.com/, PRO-SCIENCE, VERY HIGH,https://www.technologyreview.com/
+https://appleinsider.com/, RIGHT, MIXED,https://appleinsider.com/
+https://thenextweb.com/, LEFT-CENTER, MOSTLY FACTUAL,https://thenextweb.com/
+https://arstechnica.com/, LEAST BIASED, HIGH,https://arstechnica.com/
+https://www.bbc.com/news/technology, LEFT-CENTER, HIGH,https://www.bbc.com/
+https://www.macworld.com/, RIGHT, MIXED,https://www.macworld.com/
+https://www.slashgear.com/, EXTREME RIGHT, LOW,https://www.slashgear.com/
+https://www.computerworld.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.computerworld.com/
+https://www.bleepingcomputer.com/, LEAST BIASED, HIGH,https://www.bleepingcomputer.com/
+https://www.theregister.com/, LEAST BIASED, HIGH,https://www.theregister.com/
+https://www.techrepublic.com/, PRO-SCIENCE, HIGH,https://www.techrepublic.com/
+https://www.geekwire.com/, LEAST BIASED, HIGH,https://www.geekwire.com/
+https://www.extremetech.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.extremetech.com/
+https://mobilesyrup.com/, RIGHT, MIXED,https://mobilesyrup.com/
+https://technology.slashdot.org/, EXTREME RIGHT, LOW,https://technology.slashdot.org/
+https://www.trustedreviews.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.trustedreviews.com/
+https://spectrum.ieee.org/, LEAST BIASED, MIXED,https://spectrum.ieee.org/
+https://www.siliconrepublic.com/, RIGHT, MIXED,https://www.siliconrepublic.com/
+https://www.infoworld.com/, RIGHT, MIXED,https://www.infoworld.com/
+https://www.techspot.com/, LEAST BIASED, HIGH,https://www.techspot.com/
+https://www.edsurge.com/, RIGHT, MIXED,https://www.edsurge.com/
+https://www.techdirt.com/, LEFT-CENTER, HIGH,https://www.techdirt.com/
+https://www.freetech4teachers.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.freetech4teachers.com/
+https://www.redmondpie.com/, RIGHT, MIXED,https://www.redmondpie.com/
+https://www.techeblog.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.techeblog.com/
+https://hackaday.com/blog/, LEFT-CENTER, HIGH,https://hackaday.com/
+https://www.firstpost.com/tech, RIGHT, MIXED,https://www.firstpost.com/
+https://siliconangle.com/, RIGHT, MIXED,https://siliconangle.com/
+https://www.businessinsider.in/tech, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.businessinsider.in/
+https://www.techhive.com/, RIGHT, MIXED,https://www.techhive.com/
+https://www.macrumors.com/, LEAST BIASED, HIGH,https://www.macrumors.com/
+https://www.oreilly.com/radar/, RIGHT, MIXED,https://www.oreilly.com/
+https://alicekeeler.com/, RIGHT, MIXED,https://alicekeeler.com/
+https://bgr.com/tech/, RIGHT, MIXED,https://bgr.com/
+https://www.ilounge.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.ilounge.com/
+https://stratechery.com/, RIGHT, MIXED,https://stratechery.com/
+https://www.campaignlive.co.uk/brand/tech, LEAST BIASED, VERY HIGH,https://www.campaignlive.co.uk/
+https://www.nytimes.com/section/technology, LEFT, HIGH,https://www.nytimes.com/
+https://www.techtimes.com/, RIGHT, MIXED,https://www.techtimes.com/
+https://gigaom.com/blog/, LEFT-CENTER, HIGH,https://gigaom.com/
+https://irishtechnews.ie/, LEFT, MIXED,https://irishtechnews.ie/
+https://www.ecoustics.com/, EXTREME RIGHT, LOW,https://www.ecoustics.com/
+https://forkast.news/, FAR RIGHT, LOW,https://forkast.news/
+https://www.kunal-chowdhury.com/, RIGHT, MIXED,https://www.kunal-chowdhury.com/
+https://thegadgetflow.com/blog/, LEFT-CENTER, HIGH,https://thegadgetflow.com/
+https://fossbytes.com/, RIGHT, MIXED,https://fossbytes.com/
+https://www.droidviews.com/, PRO-SCIENCE, HIGH,https://www.droidviews.com/
+https://vulcanpost.com/, LEAST BIASED, HIGH,https://vulcanpost.com/
+https://techaeris.com/, LEAST BIASED, HIGH,https://techaeris.com/
+https://www.knowledgehut.com/blog, EXTREME RIGHT, VERY LOW,https://www.knowledgehut.com/
+https://itchronicles.com/, RIGHT, MIXED,https://itchronicles.com/
+https://www.datadriveninvestor.com/, EXTREME RIGHT, LOW,https://www.datadriveninvestor.com/
+https://www.thetechnolawgist.com/, RIGHT, MIXED,https://www.thetechnolawgist.com/
+https://technoclik.com/, RIGHT, MIXED,https://technoclik.com/
+https://techlates.com/, LEAST BIASED, HIGH,https://techlates.com/
+https://techlatest.info/, RIGHT, MIXED,https://techlatest.info/
+https://labmuffin.com/, RIGHT, MIXED,https://labmuffin.com/
+https://www.youtube.com/channel/UCXbQzhqSvgVZTUyi1T4AU3w, RIGHT, MIXED,https://www.youtube.com/
+https://www.youtube.com/channel/UCLFW3EKD2My9swWH4eTLaYw, RIGHT, MIXED,https://www.youtube.com/
+https://ediblebeautyaustralia.com/blogs/news, EXTREME RIGHT, LOW,https://ediblebeautyaustralia.com/
+https://www.caviarfeeling.com/, EXTREME RIGHT, LOW,https://www.caviarfeeling.com/
+https://www.nicolehudson.com.au/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.nicolehudson.com.au/
+https://ozbeautyexpert.com/, RIGHT, MIXED,https://ozbeautyexpert.com/
+https://www.thebeautyissue.com/, RIGHT, MIXED,https://www.thebeautyissue.com/
+https://www.beautyspace.com.au/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.beautyspace.com.au/
+https://www.beautyspace.com.au/, RIGHT, MIXED,https://www.beautyspace.com.au/
+https://www.youtube.com/channel/UC18CjLdco5zmVfT-FtkUhAw, RIGHT, MIXED,https://www.youtube.com/
+https://www.nourishedlife.com.au/blog.html, RIGHT, MIXED,https://www.nourishedlife.com.au/
+https://www.hairromance.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.hairromance.com/
+https://www.activeskin.com.au/blog, EXTREME RIGHT, VERY LOW,https://www.activeskin.com.au/
+https://thebeautychef.com/blogs/blog, LEFT-CENTER, HIGH,https://thebeautychef.com/
+https://www.origani.com.au/blogs/beauty-advice, RIGHT, MIXED,https://www.origani.com.au/
+https://www.peridotmakeupandbeauty.com/, RIGHT, MIXED,https://www.peridotmakeupandbeauty.com/
+https://www.shamelessfripperies.com/, RIGHT, MIXED,https://www.shamelessfripperies.com/
+https://stephanielangemakeup.com/, RIGHT, MIXED,https://stephanielangemakeup.com/
+https://www.youtube.com/channel/UCPG6A5tNaPfv2SRNW2beq5Q, RIGHT, MIXED,https://www.youtube.com/
+https://www.ozhairandbeauty.com/blogs/news, FAR RIGHT, LOW,https://www.ozhairandbeauty.com/
+https://www.depthsofbeauty.com.au/, EXTREME RIGHT, LOW,https://www.depthsofbeauty.com.au/
+https://makeuptips.digital/, PRO-SCIENCE, MOSTLY FACTUAL,https://makeuptips.digital/
+https://whyhellobeauty.com.au/, RIGHT, MIXED,https://whyhellobeauty.com.au/
+https://www.rosydisposition.com/, RIGHT, MIXED,https://www.rosydisposition.com/
+https://www.jessbunty.com/, EXTREME RIGHT, LOW,https://www.jessbunty.com/
+https://www.lipsticknlinguine.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.lipsticknlinguine.com/
+https://bowsandpleats.com/, RIGHT, MIXED,https://bowsandpleats.com/
+https://www.themakeupboxshop.com/blog/, EXTREME RIGHT, VERY LOW,https://www.themakeupboxshop.com/
+https://www.eveorganics.com.au/blogs/blog, EXTREME RIGHT, VERY LOW,https://www.eveorganics.com.au/
+https://abeautywhisperer.com/, RIGHT, MIXED,https://abeautywhisperer.com/
+https://www.missmakeup.com.au/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.missmakeup.com.au/
+https://thebeautycollection.com.au/, LEAST BIASED, HIGH,https://thebeautycollection.com.au/
+https://themintedblog.com/, RIGHT, MIXED,https://themintedblog.com/
+https://www.beautybyneha.com/, PRO-SCIENCE, HIGH,https://www.beautybyneha.com/
+https://beautyandlifestylehunter.blogspot.com/, PRO-SCIENCE, HIGH,https://beautyandlifestylehunter.blogspot.com/
+https://www.cocoandchinos.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.cocoandchinos.com/
+https://www.holwa.com.au/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.holwa.com.au/
+https://naturalbeautyexpert.co/, LEFT, MIXED,https://naturalbeautyexpert.co/
+https://makeoversaust.com.au/hair-makeup-blog, RIGHT, MIXED,https://makeoversaust.com.au/
+https://www.heytherejacquelyn.com/, RIGHT, MIXED,https://www.heytherejacquelyn.com/
+https://bellezza.com.au/blog/, LEFT-CENTER, HIGH,https://bellezza.com.au/
+https://www.teacupofmakeup.com/blog, LEFT-CENTER, MIXED,https://www.teacupofmakeup.com/
+https://www.makeupweapons.com.au/blogs/news-and-press, NOT RATED, VERY LOW,https://www.makeupweapons.com.au/
+https://katscolourings.blogspot.com/, PRO-SCIENCE, HIGH,https://katscolourings.blogspot.com/
+https://lubzsays.com/, LEAST BIASED, HIGH,https://lubzsays.com/
+https://sallytownsend.com.au/blog/, LEFT-CENTER, HIGH,https://sallytownsend.com.au/
+https://www.youtube.com/channel/UCKVNkgvxSqf_aIysPmNi5sQ, RIGHT, MIXED,https://www.youtube.com/
+https://fuishena.com/blogs/the-essentials-of-skincare, LEFT-CENTER, HIGH,https://fuishena.com/
+https://deorta.com/blog/, LEFT-CENTER, HIGH,https://deorta.com/
+https://juliaberolzheimer.com/, RIGHT, MIXED,https://juliaberolzheimer.com/
+https://thecurvyfashionista.com/, LEAST BIASED, HIGH,https://thecurvyfashionista.com/
+https://www.the-atlantic-pacific.com/, RIGHT, MIXED,https://www.the-atlantic-pacific.com/
+https://fashionbombdaily.com/, RIGHT, MIXED,https://fashionbombdaily.com/
+https://sincerelyjules.com/, RIGHT, MIXED,https://sincerelyjules.com/
+https://theblondesalad.com/en/, RIGHT, MIXED,https://theblondesalad.com/
+https://www.whowhatwear.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.whowhatwear.com/
+https://www.extrapetite.com/, PRO-SCIENCE, HIGH,https://www.extrapetite.com/
+https://www.refinery29.com/en-us/fashion, RIGHT, MIXED,https://www.refinery29.com/
+https://www.elle.com/, RIGHT, MIXED,https://www.elle.com/
+https://www.businessoffashion.com/, RIGHT, MIXED,https://www.businessoffashion.com/
+https://fashionista.com/, RIGHT, MIXED,https://fashionista.com/
+https://www.wmagazine.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.wmagazine.com/
+https://www.nytimes.com/section/fashion, LEAST BIASED, MIXED,https://www.nytimes.com/
+https://www.popsugar.com/fashion/, EXTREME RIGHT, VERY LOW,https://www.popsugar.com/
+https://fashionmagazine.com/, RIGHT, MIXED,https://fashionmagazine.com/
+https://www.fashiongonerogue.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.fashiongonerogue.com/
+https://www.thefashionspot.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.thefashionspot.com/
+https://www.fashionbeans.com/, RIGHT, MIXED,https://www.fashionbeans.com/
+https://putthison.com/, RIGHT, MIXED,https://putthison.com/
+https://www.ferbena.com/, RIGHT, MIXED,https://www.ferbena.com/
+https://www.collegefashion.net/, CONSPIRACY-PSEUDOSCIENCE, MIXED,https://www.collegefashion.net/
+https://www.kendieveryday.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.kendieveryday.com/
+https://whatkatewore.com/, RIGHT, MIXED,https://whatkatewore.com/
+https://katemiddletonstyle.org/, PSEUDOSCIENCE, LOW,https://katemiddletonstyle.org/
+https://www.wendyslookbook.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.wendyslookbook.com/
+https://www.wendyslookbook.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.wendyslookbook.com/
+https://corporette.com/, RIGHT, MIXED,https://corporette.com/
+https://www.classygirlswearpearls.com/, RIGHT, MIXED,https://www.classygirlswearpearls.com/
+https://stylegirlfriend.com/, RIGHT, MIXED,https://stylegirlfriend.com/
+https://www.thebudgetfashionista.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.thebudgetfashionista.com/
+https://natalieoffduty.com/, LEAST BIASED, HIGH,https://natalieoffduty.com/
+https://damselindior.com/, RIGHT, MIXED,https://damselindior.com/
+https://effortlessgent.com/, LEAST BIASED, HIGH,https://effortlessgent.com/
+https://www.pennypincherfashion.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.pennypincherfashion.com/
+https://awellstyledlife.com/, RIGHT, MIXED,https://awellstyledlife.com/
+https://jolynneshane.com/category/fashion-over-40, LEFT, MOSTLY FACTUAL,https://jolynneshane.com/
+https://www.stylerave.com/, EXTREME RIGHT, LOW,https://www.stylerave.com/
+https://www.styleatacertainage.com/, PRO-SCIENCE, HIGH,https://www.styleatacertainage.com/
+https://www.hellofashionblog.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.hellofashionblog.com/
+https://www.notdressedaslamb.com/, RIGHT, MIXED,https://www.notdressedaslamb.com/
+https://www.carolinesmode.com/, RIGHT, MIXED,https://www.carolinesmode.com/
+https://raindropsofsapphire.com/, LEAST BIASED, HIGH,https://raindropsofsapphire.com/
+https://thegoldengirlblog.com/, RIGHT, MIXED,https://thegoldengirlblog.com/
+https://www.michael84.co.uk/, RIGHT, MIXED,https://www.michael84.co.uk/
+https://mystylevita.com/, RIGHT, MIXED,https://mystylevita.com/
+https://hespokestyle.com/, RIGHT, MIXED,https://hespokestyle.com/
+https://cellajane.com/, LEAST BIASED, HIGH,https://cellajane.com/
+https://www.memorandum.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.memorandum.com/
+https://agoodoutfit.com/, RIGHT, MIXED,https://agoodoutfit.com/
+https://www.accidentalicon.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.accidentalicon.com/
+https://www.jadore-fashion.com/, EXTREME RIGHT, VERY LOW,https://www.jadore-fashion.com/
+https://www.theunstitchd.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.theunstitchd.com/
+https://the-middlepage.com/, RIGHT, MIXED,https://the-middlepage.com/
+https://menstyle1.com/, RIGHT, MIXED,https://menstyle1.com/
+https://www.herstylecode.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.herstylecode.com/
+https://www.sydnestyle.com/, RIGHT, MIXED,https://www.sydnestyle.com/
+https://www.nadiaaboulhosn.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.nadiaaboulhosn.com/
+https://margoandme.com/, RIGHT, MIXED,https://margoandme.com/
+https://thatsnotmyage.com/blog/, LEFT-CENTER, HIGH,https://thatsnotmyage.com/
+https://editorialist.com/, LEAST BIASED, HIGH,https://editorialist.com/
+https://pynck.com/, LEAST BIASED, HIGH,https://pynck.com/
+https://steffysprosandcons.com/, RIGHT, MIXED,https://steffysprosandcons.com/
+https://fashiongtonpost.com/, LEAST BIASED, HIGH,https://fashiongtonpost.com/
+https://www.glamcityz.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.glamcityz.com/
+https://crystalinmarie.com/, RIGHT, MIXED,https://crystalinmarie.com/
+https://modafirma.com/, LEAST BIASED, HIGH,https://modafirma.com/
+https://blog.hautehijab.com/category/fashion, NOT RATED, VERY LOW,https://blog.hautehijab.com/
+https://theblondemisfit.com/, RIGHT, MIXED,https://theblondemisfit.com/
+https://www.alanicglobal.com/blog/, EXTREME RIGHT, VERY LOW,https://www.alanicglobal.com/
+https://kaufmanfurs.com/fur-blogs/, RIGHT, MIXED,https://kaufmanfurs.com/
+https://mensfashionpost.com/blog/, LEFT-CENTER, HIGH,https://mensfashionpost.com/
+https://www.theparisreview.org/, LEFT-CENTER, HIGH,https://www.theparisreview.org/
+https://www.mcsweeneys.net/, SATIRE, N,https://www.mcsweeneys.net/
+https://www.worldliteraturetoday.org/blog-categories/fiction, RIGHT CONSPIRACY-PSEUDOSCIENCE, LOW,https://www.worldliteraturetoday.org/
+https://www.newyorker.com/books/page-turner, RIGHT, MIXED,https://www.newyorker.com/
+https://janefriedman.com/blog/, LEFT-CENTER, HIGH,https://janefriedman.com/
+https://electricliterature.com/, RIGHT, MIXED,https://electricliterature.com/
+https://lithub.com/, LEAST BIASED, HIGH,https://lithub.com/
+https://literature.britishcouncil.org/, RIGHT, MIXED,https://literature.britishcouncil.org/
+https://bookriot.com/, RIGHT, MIXED,https://bookriot.com/
+https://www.writersdigest.com/, PRO-SCIENCE, HIGH,https://www.writersdigest.com/
+https://lareviewofbooks.org/, LEFT, MIXED,https://lareviewofbooks.org/
+https://themillions.com/, RIGHT, MIXED,https://themillions.com/
+https://www.the-tls.co.uk/, LEAST BIASED, HIGH,https://www.the-tls.co.uk/
+https://therumpus.net/, RIGHT, MIXED,https://therumpus.net/
+https://www.guernicamag.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.guernicamag.com/
+https://publicdomainreview.org/, PSEUDOSCIENCE, LOW,https://publicdomainreview.org/
+https://www.thebookdesigner.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.thebookdesigner.com/
+https://www.helpingwritersbecomeauthors.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.helpingwritersbecomeauthors.com/
+https://granta.com/explore/, LEFT-CENTER, HIGH,https://granta.com/
+https://www.authormedia.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.authormedia.com/
+https://thenewinquiry.com/, RIGHT, MIXED,https://thenewinquiry.com/
+https://blog.nathanbransford.com/, LEFT-CENTER, HIGH,https://blog.nathanbransford.com/
+https://www.3ammagazine.com/3am/, EXTREME RIGHT, LOW,https://www.3ammagazine.com/
+https://jetreidliterary.blogspot.com/, PRO-SCIENCE, HIGH,https://jetreidliterary.blogspot.com/
+https://stevelaube.com/, RIGHT, MIXED,https://stevelaube.com/
+https://www.complete-review.com/saloon/index.htm, RIGHT, MIXED,https://www.complete-review.com/
+https://brittlepaper.com/, RIGHT, MIXED,https://brittlepaper.com/
+https://www.thecreativepenn.com/blog/, LEFT-CENTER, MIXED,https://www.thecreativepenn.com/
+https://thewritelife.com/, LEAST BIASED, HIGH,https://thewritelife.com/
+https://arablit.org/, LEFT, MIXED,https://arablit.org/
+https://www.livewritethrive.com/, RIGHT, MIXED,https://www.livewritethrive.com/
+https://rsliterature.org/, LEFT, MIXED,https://rsliterature.org/
+https://spillwords.com/, RIGHT, MIXED,https://spillwords.com/
+https://bookendsliterary.com/, RIGHT, MIXED,https://bookendsliterary.com/
+https://literary-arts.org/, RIGHT, MIXED,https://literary-arts.org/
+https://literarymama.com/, RIGHT, MIXED,https://literarymama.com/
+https://a-m-palmer-literary-nonfiction.ghost.io/, LEFT-CENTER, HIGH,https://a-m-palmer-literary-nonfiction.ghost.io/
+https://www.hilobrow.com/, RIGHT, MIXED,https://www.hilobrow.com/
+https://blog.pshares.org/, LEAST BIASED, HIGH,https://blog.pshares.org/
+https://taralazar.com/, RIGHT, MIXED,https://taralazar.com/
+https://literaryconsultancy.co.uk/, LEFT-CENTER, MOSTLY FACTUAL,https://literaryconsultancy.co.uk/
+https://thewritepractice.com/blog/, LEFT-CENTER, HIGH,https://thewritepractice.com/
+https://firstbook.org/blog/, RIGHT-CENTER, MIXED,https://firstbook.org/
+https://rachellegardner.com/blog/, LEFT-CENTER, HIGH,https://rachellegardner.com/
+https://www.literaturemini.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.literaturemini.com/
+https://aprildavila.com/, RIGHT, MIXED,https://aprildavila.com/
+https://interestingliterature.com/, RIGHT, MIXED,https://interestingliterature.com/
+https://firesidechats.home.blog/, EXTREME RIGHT, LOW,https://firesidechats.home.blog/
+https://www.book-blog.com/, LEFT-CENTER, MOSTLY FACTUAL,https://www.book-blog.com/
+https://theravensperch.com/, RIGHT, MIXED,https://theravensperch.com/
+https://www.inliterature.net/, CONSPIRACY-PSEUDOSCIENCE, MIXED,https://www.inliterature.net/
+https://literaryyard.com/, LEAST BIASED, HIGH,https://literaryyard.com/
+https://newpoplit.com/, RIGHT, MIXED,https://newpoplit.com/
+https://bookblast.com/blog/, LEFT-CENTER, HIGH,https://bookblast.com/
+https://www.sadgirlsclublit.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.sadgirlsclublit.com/
+https://www.booksandsuch.com/blog/, EXTREME RIGHT, VERY LOW,https://www.booksandsuch.com/
+https://michaeldickel.info/, RIGHT, MIXED,https://michaeldickel.info/
+https://englishliterature24.blogspot.com/, PRO-SCIENCE, HIGH,https://englishliterature24.blogspot.com/
+https://tredynasdays.co.uk/, EXTREME RIGHT, LOW,https://tredynasdays.co.uk/
+https://lucianoduarte.com/en/, LEAST BIASED, HIGH,https://lucianoduarte.com/
+https://estherracah.com/, LEAST BIASED, HIGH,https://estherracah.com/
+https://teaandinksociety.com/blog/, LEFT-CENTER, HIGH,https://teaandinksociety.com/
+https://elifnotes.com/, RIGHT, MIXED,https://elifnotes.com/
+https://www.amidstbooks.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.amidstbooks.com/
+https://nicolas-antoniucci.com/, PRO-SCIENCE, HIGH,https://nicolas-antoniucci.com/
+https://www.politicususa.com/, LEFT, HIGH,https://www.politicususa.com/
+https://www.thegatewaypundit.com/, EXTREME RIGHT, VERY LOW,https://www.thegatewaypundit.com/
+https://thepoliticalinsider.com/, EXTREME RIGHT, LOW,https://thepoliticalinsider.com/
+https://www.politico.com, LEFT-CENTER, HIGH,https://www.politico.com
+https://reason.com/latest/, RIGHT, MIXED,https://reason.com/
+https://www.realclearpolitics.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.realclearpolitics.com/
+https://www.dailykos.com/, LEFT, MIXED,https://www.dailykos.com/
+https://politicalwire.com/, LEAST BIASED, HIGH,https://politicalwire.com/
+https://front.moveon.org/blog/, FAR LEFT, MOSTLY FACTUAL,https://front.moveon.org/
+https://www.nytimes.com/section/politics, LEAST BIASED, MOSTLY FACTUAL,https://www.nytimes.com/
+https://redstate.com/, RIGHT, MIXED,https://redstate.com/
+https://www.huffpost.com/news/politics, LEAST BIASED, HIGH,https://www.huffpost.com/
+https://www.nationalreview.com/, RIGHT, MOSTLY FACTUAL,https://www.nationalreview.com/
+https://www.politico.eu/, LEFT-CENTER, HIGH,https://www.politico.eu/
+https://www.theatlantic.com/politics/, RIGHT, MIXED,https://www.theatlantic.com/
+https://www.newsbusters.org/, RIGHT, MIXED,https://www.newsbusters.org/
+https://crooksandliars.com/, LEFT, MOSTLY FACTUAL,https://crooksandliars.com/
+https://truthout.org/, RIGHT-CENTER, MIXED,https://truthout.org/
+https://order-order.com/, RIGHT, MIXED,https://order-order.com/
+https://www.spectator.co.uk/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.spectator.co.uk/
+https://hotair.com/, RIGHT, MOSTLY FACTUAL,https://hotair.com/
+https://conservativehome.com/, RIGHT, MIXED,https://conservativehome.com/
+https://hughhewitt.com/, RIGHT-CENTER, HIGH,https://hughhewitt.com/
+https://fivethirtyeight.com/politics/, LEFT-CENTER, HIGH,https://fivethirtyeight.com/
+https://leftfootforward.org/, LEFT-CENTER, MIXED,https://leftfootforward.org/
+https://www.powerlineblog.com/, RIGHT, MIXED,https://www.powerlineblog.com/
+https://johnredwoodsdiary.com/, RIGHT, MIXED,https://johnredwoodsdiary.com/
+https://www.politics.co.uk/, LEFT-CENTER, HIGH,https://www.politics.co.uk/
+https://centerforpolitics.org/crystalball/, LEFT-CENTER, HIGH,https://centerforpolitics.org/
+https://www.dailysignal.com/category/politics-topics, RIGHT-CENTER, MOSTLY FACTUAL,https://www.dailysignal.com/
+https://www.intellectualconservative.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.intellectualconservative.com/
+https://sluggerotoole.com/, RIGHT, MIXED,https://sluggerotoole.com/
+https://www.crikey.com.au/politics/, LEFT-CENTER, MIXED,https://www.crikey.com.au/
+https://www7.politicalbetting.com/, RIGHT, MIXED,https://www7.politicalbetting.com/
+https://www.iaindale.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.iaindale.com/
+https://boingboing.net/tag/politics, EXTREME RIGHT, LOW,https://boingboing.net/
+https://www.timworstall.com/, RIGHT, MIXED,https://www.timworstall.com/
+https://buzzmachine.com/, RIGHT, MIXED,https://buzzmachine.com/
+https://wingsoverscotland.com/, LEFT-CENTER, MIXED,https://wingsoverscotland.com/
+https://www.coloradopols.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.coloradopols.com/
+https://washingtonmonthly.com/, LEFT-CENTER, HIGH,https://washingtonmonthly.com/
+https://yallpolitics.com/, RIGHT, MIXED,https://yallpolitics.com/
+https://slate.com/podcasts/political-gabfest, RIGHT, MIXED,https://slate.com/
+https://theintercept.com/, LEFT, MOSTLY FACTUAL,https://theintercept.com/
+https://www.frontpageindex.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.frontpageindex.com/
+https://shadowproof.com/, LEFT, HIGH,https://shadowproof.com/
+https://coloradopeakpolitics.com/, LEAST BIASED, HIGH,https://coloradopeakpolitics.com/
+https://www.schwartzreport.net/, CONSPIRACY-PSEUDOSCIENCE, MIXED,https://www.schwartzreport.net/
+https://macleans.ca/politics/, LEFT-CENTER, HIGH,https://macleans.ca/
+https://www.krpoliticaljunkie.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.krpoliticaljunkie.com/
+https://www.thecampaignworkshop.com/blog, EXTREME RIGHT, VERY LOW,https://www.thecampaignworkshop.com/
+https://gopillinois.com/, RIGHT, MIXED,https://gopillinois.com/
+https://democracyparadox.com/, RIGHT, MIXED,https://democracyparadox.com/
+https://stevesothinks.com/, RIGHT, MIXED,https://stevesothinks.com/
+https://www.uncommonthought.com/mtblog/, PRO-SCIENCE, HIGH,https://www.uncommonthought.com/
+https://www.commentsonnationalamnesia.net/, CONSPIRACY-PSEUDOSCIENCE, MIXED,https://www.commentsonnationalamnesia.net/
+https://politicsguys.com/, RIGHT, MIXED,https://politicsguys.com/
+https://lawandpoliticsofaltondrew.com/, RIGHT, MIXED,https://lawandpoliticsofaltondrew.com/
+https://www.garyhasissues.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.garyhasissues.com/
+https://chaunceyibrowniii.com/chaunceys-blog, LEFT-CENTER, HIGH,https://chaunceyibrowniii.com/
+https://cariboopolitics.blogspot.com/, PRO-SCIENCE, HIGH,https://cariboopolitics.blogspot.com/
+https://www.nytimes.com/section/world, LEAST BIASED, HIGH,https://www.nytimes.com/
+https://www.aljazeera.com/, LEFT-CENTER, MIXED,https://www.aljazeera.com/
+https://defence-blog.com/, LEFT-CENTER, MOSTLY FACTUAL,https://defence-blog.com/
+https://www.e-ir.info/, LEAST BIASED, HIGH,https://www.e-ir.info/
+https://www.thecipherbrief.com/, LEAST BIASED, HIGH,https://www.thecipherbrief.com/
+https://www.bbc.com/, LEFT-CENTER, HIGH,https://www.bbc.com/
+https://www.nabamart.com/, RIGHT, MIXED,https://www.nabamart.com/
+https://www.wugt.news/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.wugt.news/
+https://viralnow.uk/, LEFT, MOSTLY FACTUAL,https://viralnow.uk/
+https://edition.cnn.com/world, RIGHT, MIXED,https://edition.cnn.com/
+https://timesofindia.indiatimes.com/world, RIGHT, MIXED,https://timesofindia.indiatimes.com/
+https://www.washingtonpost.com/world/, LEAST BIASED, MIXED,https://www.washingtonpost.com/
+https://www.rt.com/news/, RIGHT-CENTER, VERY LOW,https://www.rt.com/
+https://www.reuters.com/world/, LEFT SATIRE, N,https://www.reuters.com/
+https://abcnews.go.com/International, LEFT-CENTER, HIGH,https://abcnews.go.com/
+https://news.sky.com/world, RIGHT-CENTER, MIXED,https://news.sky.com/
+https://www.cbsnews.com/world/, LEFT, HIGH,https://www.cbsnews.com/
+https://time.com/, LEFT-CENTER, HIGH,https://time.com/
+https://www.smh.com.au/world, LEFT, HIGH,https://www.smh.com.au/
+https://www.france24.com/en/, LEAST BIASED, HIGH,https://www.france24.com/
+https://www.ctvnews.ca/world, LEAST BIASED, HIGH,https://www.ctvnews.ca/
+https://www.news24.com/World, RIGHT-CENTER, HIGH,https://www.news24.com/
+https://globalnews.ca/world/, LEFT-CENTER, HIGH,https://globalnews.ca/
+https://www.rand.org/topics/international-affairs.html, LEAST BIASED, VERY HIGH,https://www.rand.org/
+https://warontherocks.com/, LEAST BIASED, HIGH,https://warontherocks.com/
+https://ifpnews.com/, RIGHT, MIXED,https://ifpnews.com/
+https://247newsaroundtheworld.com/, RIGHT, MIXED,https://247newsaroundtheworld.com/
+https://dailyresearchplot.com/, RIGHT, MIXED,https://dailyresearchplot.com/
+https://wan-ifra.org/news/, FAR RIGHT, LOW,https://wan-ifra.org/
+https://www.thelocal.es/, LEFT-CENTER, HIGH,https://www.thelocal.es/
+https://insidexpress.com/, RIGHT, MIXED,https://insidexpress.com/
+https://www.easternherald.com/, RIGHT, MIXED,https://www.easternherald.com/
+https://www.watchdoguganda.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.watchdoguganda.com/
+https://www.headlinesoftoday.com/, RIGHT, MIXED,https://www.headlinesoftoday.com/
+https://quintdaily.com/, RIGHT, MIXED,https://quintdaily.com/
+https://worldnewsera.com/, LEFT-CENTER, MIXED,https://worldnewsera.com/
+https://articleify.com/, RIGHT, MIXED,https://articleify.com/
+https://internewscast.com/, RIGHT, MIXED,https://internewscast.com/
+https://newsblaze.com/, EXTREME RIGHT, MIXED,https://newsblaze.com/
+https://worldweeklynews.com/, RIGHT, MIXED,https://worldweeklynews.com/
+https://globalpressjournal.com/, RIGHT, MIXED,https://globalpressjournal.com/
+https://radarr.africa/, LEFT, MIXED,https://radarr.africa/
+https://www.thenexthint.com/, RIGHT, MIXED,https://www.thenexthint.com/
+https://warnewsupdates.blogspot.com/, PRO-SCIENCE, HIGH,https://warnewsupdates.blogspot.com/
+https://www.forsige.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.forsige.com/
+https://newslanes.com/, RIGHT, MIXED,https://newslanes.com/
+https://www.akinblog.com/, RIGHT, MIXED,https://www.akinblog.com/
+https://warritatafo.com/, RIGHT, MIXED,https://warritatafo.com/
+https://www.blowthetruth.com/, EXTREME RIGHT, LOW,https://www.blowthetruth.com/
+https://www.usnn.news/, EXTREME RIGHT, LOW,https://www.usnn.news/
+https://www.scmp.com/, LEFT-CENTER, MIXED,https://www.scmp.com/
+https://www.pri.org/, LEFT-CENTER, HIGH,https://www.pri.org/
+https://hgsmediaplus.com/, RIGHT, MIXED,https://hgsmediaplus.com/
+https://www.latimes.com/world-nation, LEFT, HIGH,https://www.latimes.com/
+https://internetprotocol.co/, LEFT-CENTER, MOSTLY FACTUAL,https://internetprotocol.co/
+https://3-mob.com/, EXTREME RIGHT, LOW,https://3-mob.com/
+https://editorialge.com/, LEAST BIASED, HIGH,https://editorialge.com/
+https://www.worldstopexports.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.worldstopexports.com/
+https://reporter.am/, LEFT-CENTER, HIGH,https://reporter.am/
+https://www.csmonitor.com/World, LEFT, HIGH,https://www.csmonitor.com/
+https://rocetoday.com/, LEAST BIASED, HIGH,https://rocetoday.com/
+https://www.breakingnews.ie/world/, LEFT-CENTER, HIGH,https://www.breakingnews.ie/
+https://bbcbreakingnews.com/, RIGHT, MIXED,https://bbcbreakingnews.com/
+https://newsblenda.com/, RIGHT, MIXED,https://newsblenda.com/
+https://www.spiegel.de/international/, LEFT-CENTER, HIGH,https://www.spiegel.de/
+https://timespek.com/, LEAST BIASED, HIGH,https://timespek.com/
+https://justworldnews.org/, LEFT, MIXED,https://justworldnews.org/
+https://www.igorbnews.com/, RIGHT, MIXED,https://www.igorbnews.com/
+https://www.dainikviral.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.dainikviral.com/
+https://worldupdatedaily.blogspot.com/, PRO-SCIENCE, HIGH,https://worldupdatedaily.blogspot.com/
+https://swagonnews.com/, RIGHT, MIXED,https://swagonnews.com/
+https://www.nhpolitician.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.nhpolitician.com/
+https://newszetu.com/, RIGHT, MIXED,https://newszetu.com/
+https://www.theguardian.com/world, RIGHT, MIXED,https://www.theguardian.com/
+https://www.buzzfeednews.com/section/world, LEFT-CENTER, HIGH,https://www.buzzfeednews.com/
+https://www.euronews.com/news/international, RIGHT, MIXED,https://www.euronews.com/
+https://www.vox.com/world, RIGHT, MIXED,https://www.vox.com/
+https://www.dkoding.in/, PRO-SCIENCE, HIGH,https://www.dkoding.in/
+https://kwttoday.com/, RIGHT, MIXED,https://kwttoday.com/
+https://www.thevividreader.com/, RIGHT, MIXED,https://www.thevividreader.com/
+https://rightwirereport.com/, RIGHT, MIXED,https://rightwirereport.com/
+https://www.newsrust.com/, EXTREME RIGHT, LOW,https://www.newsrust.com/
+https://patriotrising.com/, RIGHT, MIXED,https://patriotrising.com/
+https://publicnewsupdate.com/, LEAST BIASED, HIGH,https://publicnewsupdate.com/
+https://www.statehooddc.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.statehooddc.com/
+https://lionnetnews.com/, LEAST BIASED, HIGH,https://lionnetnews.com/
+https://www.thelifecart.com/, PRO-SCIENCE, HIGH,https://www.thelifecart.com/
+https://cosmic-matters-tv.com/, RIGHT, MIXED,https://cosmic-matters-tv.com/
+https://amnews247.com/, RIGHT, MIXED,https://amnews247.com/
+https://stardiapost.com/, LEAST BIASED, HIGH,https://stardiapost.com/
+https://annalshub.com/, RIGHT, MIXED,https://annalshub.com/
+https://tftnews.com/, RIGHT, MIXED,https://tftnews.com/
+https://deenewsline.com.ng/, LEAST BIASED, HIGH,https://deenewsline.com.ng/
+https://worldnews24daily.com/, RIGHT, MIXED,https://worldnews24daily.com/
+https://nationscoops.com/, RIGHT, MIXED,https://nationscoops.com/
+https://www.thetimesinplainenglish.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.thetimesinplainenglish.com/
+https://commissionbro.com/, RIGHT, MIXED,https://commissionbro.com/
+https://www.newsdesk.io/, LEFT, MOSTLY FACTUAL,https://www.newsdesk.io/
+https://www.rapidgist.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.rapidgist.com/
+https://carihargaterupdate.com/, RIGHT, MIXED,https://carihargaterupdate.com/
+https://newscentric.com.ng/, LEAST BIASED, HIGH,https://newscentric.com.ng/
+https://funmitrends.com.ng/, LEAST BIASED, HIGH,https://funmitrends.com.ng/
+https://www.yerozo.com/, LEFT-CENTER, HIGH,https://www.yerozo.com/
+https://www.akajesusnews.com.ng/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.akajesusnews.com.ng/
+https://balticword.eu/, EXTREME RIGHT, LOW,https://balticword.eu/
+https://odincenews.com/, RIGHT, MIXED,https://odincenews.com/
+https://ebysblog.com/, RIGHT, MIXED,https://ebysblog.com/
+https://www.dailyechoed.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.dailyechoed.com/
+https://thisdaytrends.com/, LEAST BIASED, HIGH,https://thisdaytrends.com/
+https://www.thenewscave.com/, RIGHT CONSPIRACY-PSEUDOSCIENCE, VERY LOW,https://www.thenewscave.com/
+https://www.focusnews.com.ng/, RIGHT, MIXED,https://www.focusnews.com.ng/
+https://acebloggers.com.ng/, RIGHT, MIXED,https://acebloggers.com.ng/
+https://soulwriteempire.com/, RIGHT, MIXED,https://soulwriteempire.com/
+https://newzitnews.com/, RIGHT, MIXED,https://newzitnews.com/
+https://vivianvioline.blogspot.com/, PRO-SCIENCE, HIGH,https://vivianvioline.blogspot.com/
+https://globalvisionuk.com/, RIGHT, MIXED,https://globalvisionuk.com/
+https://www.avjnews.com/, RIGHT, MIXED,https://www.avjnews.com/
+https://thedetrend.com/, RIGHT, MIXED,https://thedetrend.com/
+https://dmwire.com/, RIGHT, MIXED,https://dmwire.com/
+https://breakingnewscentral.com/, RIGHT, MIXED,https://breakingnewscentral.com/
+https://allworldnews24hours6.blogspot.com/, PRO-SCIENCE, HIGH,https://allworldnews24hours6.blogspot.com/
+https://lookingtimes.blogspot.com/, PRO-SCIENCE, HIGH,https://lookingtimes.blogspot.com/
+https://dandyworldnews.com/, RIGHT, MIXED,https://dandyworldnews.com/
+https://theweeklytide.com/, LEAST BIASED, HIGH,https://theweeklytide.com/
+https://worldnews24you.blogspot.com/, PRO-SCIENCE, HIGH,https://worldnews24you.blogspot.com/
+https://globalsolutions.org/, LEFT, MIXED,https://globalsolutions.org/
+https://www.news.rosettamoon.com/, NOT RATED, MIXED,https://www.news.rosettamoon.com/
+https://awkwardvibes.com/, RIGHT, MIXED,https://awkwardvibes.com/
+https://www.theworldwomennews.com/, RIGHT, MIXED,https://www.theworldwomennews.com/
+https://tataafo.com/, RIGHT, MIXED,https://tataafo.com/
+https://quicktrendnews.wordpress.com/, LEFT-CENTER, VERY HIGH,https://quicktrendnews.wordpress.com/
+https://kizzyklicks.blogspot.com/, PRO-SCIENCE, HIGH,https://kizzyklicks.blogspot.com/
+https://thewholewisdom.com/, RIGHT, MIXED,https://thewholewisdom.com/
+https://thedailycanvas.com/, RIGHT, MIXED,https://thedailycanvas.com/
+https://sixpostnews.com/, RIGHT, MIXED,https://sixpostnews.com/
+https://dtownpost.com/, RIGHT, MIXED,https://dtownpost.com/
+https://www.reporterfox.com/, RIGHT, MIXED,https://www.reporterfox.com/
+https://www.worldpresslive.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.worldpresslive.com/
+https://www.excite-news.site/, LEFT-CENTER, HIGH,https://www.excite-news.site/
+https://www.suresource24.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.suresource24.com/
+https://www.worldaffairsjournal.org/, LEFT-CENTER, HIGH,https://www.worldaffairsjournal.org/
+https://theoverday.com/, LEAST BIASED, HIGH,https://theoverday.com/
+https://newswarden.com/, RIGHT, MIXED,https://newswarden.com/
+https://newsobservatory.com/, RIGHT, MIXED,https://newsobservatory.com/
+https://z6mag.com/, RIGHT, MIXED,https://z6mag.com/
+https://world.wng.org/categories/international, LEFT-CENTER, HIGH,https://world.wng.org/
+https://globalreport.news/, EXTREME RIGHT, LOW,https://globalreport.news/
+https://www.worldcelebritynews.com/, RIGHT-CENTER, MOSTLY FACTUAL,https://www.worldcelebritynews.com/
+https://danielspost.news.blog/, LEFT, MOSTLY FACTUAL,https://danielspost.news.blog/
+https://bbcstoriesnews.blogspot.com/, PRO-SCIENCE, HIGH,https://bbcstoriesnews.blogspot.com/
+https://www.todayonline.com/world, LEFT-CENTER, HIGH,https://www.todayonline.com/
+https://africalaunchpad.com/, LEAST BIASED, HIGH,https://africalaunchpad.com/
+https://metinews.com/, RIGHT, MIXED,https://metinews.com/
+https://www.censored.com.ng/, RIGHT-CENTER, MIXED,https://www.censored.com.ng/
+https://zemocity.com/, LEAST BIASED, HIGH,https://zemocity.com/
+https://odincenews.com/, LEAST BIASED, HIGH,https://odincenews.com/
+https://ppapiblogue.blogspot.com/, PRO-SCIENCE, HIGH,https://ppapiblogue.blogspot.com/
+https://godsofsoccer.com/, RIGHT, MIXED,https://godsofsoccer.com/
+https://topthesaurus.com/, LEAST BIASED, HIGH,https://topthesaurus.com/
+https://headlinecode.com/, RIGHT, MIXED,https://headlinecode.com/
+https://armyyoutube.com/, LEAST BIASED, HIGH,https://armyyoutube.com/
